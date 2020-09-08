@@ -13,7 +13,7 @@ Helpful link: https://www.youtube.com/watch?v=LQjaJINkQXY
 * Docker-desktop should be installed on your system. Make sure it is running.
 
 #### Commands to run the repo
-* Clone the repo: `git clone https://github.com/namyamalik/coursera_dses_course1.git`
+* Clone the repo: `git clone https://github.com/namyamalik/tinyos-docker.git`
 * Navigate to the directory that contains the Dockerfile
 * Build the image: `docker build -t <provide name of image> .`
 
