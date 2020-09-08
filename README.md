@@ -1,7 +1,7 @@
 ## tinyos-docker
 ## Author: Namya Malik
 
-A docker container that has all the dependencies to install TinyOS. I used MacOSX but should work on other systems.
+Instructions to install and run TinyOS within a docker container. I used MacOSX but should work on other systems.
 
 ### How I generated the dockerfile
 * Create `Dockerfile` and add instructions to it  
